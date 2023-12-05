@@ -1,4 +1,4 @@
 pushplus_token: 4e6702cb913d483e8ad07e18f79c8c7c ## pushplus推送token
 refresh_token: b06b48205e6643bc8cdadc505a25b818 ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
-jd_cookie: __jdv=122270672%7Ckong%7Ct_2032523921_%7Cjingfen%7Ccf4e7cd6440c45118f568e4ea3ddcfcb%7C1700793800095 ##京东cookie
+jd_cookie: __jdv=122270672 ##京东cookie
